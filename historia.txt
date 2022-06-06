@@ -5,3 +5,5 @@ Esto es parte del curso de git y github
 Dado por Freddy Vega en Platzi.
 
 Aprendemos como hacer commits 
+
+Aprendimos log show y diff
