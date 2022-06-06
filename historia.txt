@@ -3,3 +3,5 @@ Esta es una prueba realizada para probar los comandos de git y github.
 Esto es parte del curso de git y github
 
 Dado por Freddy Vega en Platzi.
+
+Aprendemos como hacer commits 
