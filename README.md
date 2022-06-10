@@ -15,4 +15,4 @@ Aprendí cosas como :
 - .gitignore
 - Modificar este archivo Markdown
 
-Este proyecto es el primero de muchos más :tw-1f49a:
+Este proyecto es el primero de muchos más :green_heart:
